@@ -20,16 +20,24 @@ A full-stack event management platform that allows users to create, manage, and 
 Frontend
 
 User Authentication: Register, Login, and Guest Access.
+
 Event Dashboard: View upcoming and past events with filters.
+
 Event Creation: Create events with details like name, description, and date/time.
+
 Real-Time Updates: View attendee count updates in real time.
+
 Responsive Design: Optimized for desktops, tablets, and mobile devices.
 
 
 ### Backend
+
 Authentication API: Secure authentication using JWT.
+
 Event Management API: CRUD operations for events with ownership restrictions.
+
 Real-Time Communication: WebSockets for real-time updates.
+
 Database: MongoDB for efficient storage of user and event data.
 
 1. Clone the repository:
